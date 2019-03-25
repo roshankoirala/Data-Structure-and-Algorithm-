@@ -11,3 +11,6 @@ Hence, the method of finding the line os best fit by minimizing the sum of squar
 
 
 
+# Keep adding the questions here. May be use ipython for LaTeX. 
+
+
